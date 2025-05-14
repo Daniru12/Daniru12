@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td width="50%" align="center">
-      <img align="center" alt="Coding" width="450" src="https://github.com/Daniru12/daniru12/blob/main/animation.gif">
+       <img src="https://komarev.com/ghpvc/?username=vishmithahash&label=Profile%20views&color=0e75b6&style=flat" alt="daniru" />
     </td>
   </tr>
 </table>
