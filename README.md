@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/daniru12/daniru12/blob/main/about.gif" width="100px">
+  <img src="https://github.com/Daniru12/Daniru12/blob/main/about.gif" width="100px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Daniru Punsith</h1>
