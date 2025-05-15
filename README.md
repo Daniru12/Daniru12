@@ -6,8 +6,8 @@
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daniru12/daniru12/main/about.gif" width="100px">
-
+  
+  <img src="https://komarev.com/ghpvc/?username=vishmithahash&label=Profile%20views&color=0e75b6&style=flat" alt="daniru" />
 </p>
 
 <table align="center">
@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td width="50%" align="center">
-       <img src="https://komarev.com/ghpvc/?username=vishmithahash&label=Profile%20views&color=0e75b6&style=flat" alt="daniru" />
+       <img src="https://raw.githubusercontent.com/daniru12/daniru12/main/animation.gif" width="100px">
     </td>
   </tr>
 </table>
