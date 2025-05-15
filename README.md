@@ -12,21 +12,22 @@
 
 <table align="center">
   <tr>
-    <td width="50%" align="left">
-      <img src="your-profile-image.jpg" alt="Profile Picture" 
+   <td width="50%" align="left" style="vertical-align: middle;">
+  <img src="your-profile-image.jpg" alt="Profile Picture" 
        style="width:100px; height:100px; border-radius:50%; object-fit: cover; margin-right: 15px; float: left;">
+  <ul style="list-style: none; padding-left: 0; margin-top: 0;">
+    <li>🌱 I’m currently learning <em>Python, MERN Stack</em></li>
+    <li>🧑‍🎓 I’m an Undergraduate at <em>SLIIT</em></li>
+    <li>💬 Ask me about <em>C, Java, React, UI Design</em></li>
+    <li>📫 How to reach me: <a href="mailto:punsithdaniru@gmail.com">punsithdaniru@gmail.com</a></li>
+    <li>⚡ Fun fact: <em>I'm also interested in Web Development</em></li>
+  </ul>
+</td>
 
-      <ul>
-        <li>🌱 I’m currently learning *Python, MERN Stack*</li>
-        <li>🧑‍🎓 I’m an Undergraduate at *SLIIT*</li>
-        <li>💬 Ask me about *C, Java, React, UI Design*</li>
-        <li>📫 How to reach me: <a href="mailto:punsithdaniru@gmail.com">punsithdaniru@gmail.com</a></li>
-        <li>⚡ Fun fact: *I'm also interested in Web Development*</li>
-      </ul>
-    </td>
-    <td width="50%" align="center">
+<td width="50%" align="center">
        <img src="https://raw.githubusercontent.com/daniru12/daniru12/main/animation.gif" width="500px">
     </td>
+    
   </tr>
 </table>
 
