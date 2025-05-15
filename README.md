@@ -12,9 +12,12 @@
 
 <table align="center">
   <tr>
-   <td width="50%" align="left" style="vertical-align: middle;">
-  <img src="https://github.com/Daniru12/Daniru12/blob/main/linkdin.jpg" alt="Profile Picture" 
-       style="width:100px; height:100px; border-radius:50%; object-fit: cover; margin-right: 15px; float: left;">
+  <td width="100%" align="center" style="vertical-align: middle; padding: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center; max-width: 600px; margin: 0 auto;">
+    <!-- Centered circular image -->
+    <img src="https://github.com/Daniru12/Daniru12/blob/main/linkdin.jpg" alt="Profile Picture" 
+         style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 20px; border: 4px solid #0077B5;">
+    
   <ul style="list-style: none; padding-left: 0; margin-top: 0;">
     <li>🌱 I’m currently learning <em>Python, MERN Stack</em></li>
     <li>🧑‍🎓 I’m an Undergraduate at <em>SLIIT</em></li>
