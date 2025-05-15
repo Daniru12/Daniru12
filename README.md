@@ -13,6 +13,9 @@
 <table align="center">
   <tr>
     <td width="50%" align="left">
+      <img src="your-profile-image.jpg" alt="Profile Picture" 
+       style="width:100px; height:100px; border-radius:50%; object-fit: cover; margin-right: 15px; float: left;">
+
       <ul>
         <li>🌱 I’m currently learning *Python, MERN Stack*</li>
         <li>🧑‍🎓 I’m an Undergraduate at *SLIIT*</li>
