@@ -16,7 +16,7 @@
   <div style="display: flex; flex-direction: column; align-items: center; max-width: 600px; margin: 0 auto;">
     <!-- Centered circular image -->
     <img src="https://github.com/Daniru12/Daniru12/blob/main/me.png" alt="Profile Picture" 
-         style="width: 180px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 20px; border: 4px solid #0077B5;">
+         style="width: 170px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 20px; border: 4px solid #0077B5;">
     
   <ul style="list-style: none; padding-left: 0; margin-top: 0;">
     <li>🌱 I’m currently learning <em>Python, MERN Stack</em></li>
