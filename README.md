@@ -97,10 +97,10 @@
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/daniru-punsith-b96288312/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" width="60" height="60"/>
+    <img src="https://github.com/Vishmithahash/Skill-Icons/blob/main/icons/LinkedIn.svg" alt="linkedin" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/1AfYcQUKyK/?mibextid=wwXIfr" target="_blank">
+  <a href="https://www.facebook.com/daniru.ranathunga" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="60" height="60"/>
   </a>
 </p>
