@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td width="50%" align="center">
-       <img src="https://raw.githubusercontent.com/daniru12/daniru12/main/animation.gif" width="100px">
+       <img src="https://raw.githubusercontent.com/daniru12/daniru12/main/animation.gif" width="500px">
     </td>
   </tr>
 </table>
