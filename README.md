@@ -18,7 +18,7 @@
         <li>🧑‍🎓 I’m an Undergraduate at *SLIIT*</li>
         <li>💬 Ask me about *C, Java, React, UI Design*</li>
         <li>📫 How to reach me: <a href="mailto:punsithdaniru@gmail.com">punsithdaniru@gmail.com</a></li>
-        <li>⚡ Fun fact: *I'm also interested in mobile UI design*</li>
+        <li>⚡ Fun fact: *I'm also interested in Web Development*</li>
       </ul>
     </td>
     <td width="50%" align="center">
