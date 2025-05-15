@@ -13,7 +13,7 @@
 <table align="center">
   <tr>
    <td width="50%" align="left" style="vertical-align: middle;">
-  <img src="your-profile-image.jpg" alt="Profile Picture" 
+  <img src="https://github.com/Daniru12/Daniru12/blob/main/linkdin.jpg" alt="Profile Picture" 
        style="width:100px; height:100px; border-radius:50%; object-fit: cover; margin-right: 15px; float: left;">
   <ul style="list-style: none; padding-left: 0; margin-top: 0;">
     <li>🌱 I’m currently learning <em>Python, MERN Stack</em></li>
