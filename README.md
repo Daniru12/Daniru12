@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Daniru Punsith</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Passionate SE Student | Exploring the Boundless World of Technology</h3>
 
 <p align="center">
   
