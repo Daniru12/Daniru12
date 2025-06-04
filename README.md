@@ -2,7 +2,7 @@
   <img src="https://github.com/Daniru12/Daniru12/blob/main/about.gif" width="100px">
 </p>
 
-<h1 align="center">Hi 👋, I'm Daniru Punsith</h1>
+<h1 align="center">Hi 👋, I'm Daniru Punsith Ranathunga</h1>
 <h3 align="center">Passionate SE Student | Exploring the Boundless World of Technology</h3>
 
 <p align="center">
