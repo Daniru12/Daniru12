@@ -19,7 +19,7 @@
          style="width: 170px; height: 170px; border-radius: 50%; object-fit: cover; margin-bottom: 20px; border: 4px solid #0077B5;">
     
   <ul style="list-style: none; padding-left: 0; margin-top: 0;">
-    <li>🌱 I’m currently learning <em>Python, MERN Stack</em></li>
+    <li>🌱 I’m currently learning <em>Python, Springboot</em></li>
     <li>🧑‍🎓 I’m an Undergraduate at <em>SLIIT</em></li>
     <li>💬 Ask me about <em>C, Java, React, UI Design</em></li>
     <li>📫 How to reach me: <a href="mailto:punsithdaniru@gmail.com">punsithdaniru@gmail.com</a></li>
