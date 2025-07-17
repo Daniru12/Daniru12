@@ -1,94 +1,43 @@
-<p align="center">
-  <img src="https://github.com/Daniru12/Daniru12/blob/main/about.gif" width="100px">
-</p>
 
-<h1 align="center">Hi 👋, I'm Daniru Punsith Ranathunga</h1>
-<h3 align="center">Passionate SE Student | Exploring the Boundless World of Technology</h3>
 
-<p align="center">
+
+<a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Hi%F0%9F%91%8B+I+am+Daniru+Punsith+Ranathunga" alt="Typing SVG" /></a>
+<h3 align="center">Passionate Software Engineer | Full Stack Devoloper | Exploring the Boundless World of Technology | Microsoft Learn Student Ambassador | MS Club Volunteer</h3>
+
   
-  <img src="https://komarev.com/ghpvc/?username=vishmithahash&label=Profile%20views&color=0e75b6&style=flat" alt="daniru" />
+ 
+
+<br/>
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/daniru12/daniru12/main/animation.gif">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=daniru12&label=Profile%20views&color=0e75b6&style=flat" alt="daniru12" />
 </p>
 
-<table align="center">
-  <tr>
-  <td width="100%" align="center" style="vertical-align: middle; padding: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center; max-width: 600px; margin: 0 auto;">
-    <!-- Centered circular image -->
-    <img src="https://github.com/Daniru12/Daniru12/blob/main/da.png" alt="Profile Picture" 
-         style="width: 170px; height: 170px; border-radius: 50%; object-fit: cover; margin-bottom: 20px; border: 4px solid #0077B5;">
-    
-  <ul style="list-style: none; padding-left: 0; margin-top: 0;">
-    <li>🌱 I’m currently learning <em>Python, Springboot</em></li>
-    <li>🧑‍🎓 I’m an Undergraduate at <em>SLIIT</em></li>
-    <li>💬 Ask me about <em>C, Java, React, UI Design</em></li>
-    <li>📫 How to reach me: <a href="mailto:punsithdaniru@gmail.com">punsithdaniru@gmail.com</a></li>
-    <li>⚡ Fun fact: <em>I'm also interested in Web Development</em></li>
-  </ul>
-</td>
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/daniru12.svg)](https://user-badge.committers.top/sri_lanka/daniru12)
 
-<td width="50%" align="center">
-       <img src="https://raw.githubusercontent.com/daniru12/daniru12/main/animation.gif" width="500px">
-    </td>
-    
-  </tr>
-</table>
+- 🌱 I’m currently learning **Python, Springboot**
+
+- 🧑‍🎓 I’m an Undergraduate at <em>SLIIT</em>
+
+- 💬 Ask me about <em>C, Java, React, UI Design</em></li>
+
+- 📫 How to reach me: <a href="mailto:[punsithdaniru@gmail.com](https://portfolio-my-daniru.vercel.app/)">[punsithdaniru@gmail.com](portfolio-my-daniru.vercel.app)</a></li>
+
+- ⚡ Fun fact: <em>I'm also interested in Web Development</em
 
 
+<br><br>
 ---
 
 <h3 align="center">🛠 Languages and Tools</h3>
 
+
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="50" height="50"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/>
-  </a>
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,php,py,dart,flutter,c,cs,dotnet,azure,git,github,tailwind,bootstrap,mysql,firebase,idea,eclipse,androidstudio,vscode,visualstudio,figma&theme=dark&perline=13"/>
+ </a>
 </p>
+<br>
 
 ---
 
@@ -100,18 +49,7 @@
   <li><strong><a href="https://github.com/Daniru12/Bus-Ticket-Reservation-System" target="_blank">Online Bus Ticket Reservation System</a></strong>: Web-based application developed using HTML, CSS, and Java.</li>
 </ul>
 
----
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniru-punsith-b96288312/" target="_blank">
-    <img src="https://github.com/Vishmithahash/Skill-Icons/blob/main/icons/LinkedIn.svg" alt="linkedin" width="60" height="60"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/daniru.ranathunga" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="60" height="60"/>
-  </a>
-</p>
 
 
 ---
@@ -135,5 +73,21 @@
     </td>
   </tr>
 </table>
+
+---
+
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="www.linkedin.com/in/daniru-punsith-b96288312" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:danirupunsith@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://daniru-punsith-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 
 ---
