@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **>.Net, DevOps**
 
-- 🧑‍🎓 I’m an Undergraduate at <em>SLIIT</em>
+- 🧑‍🎓 I’m an SE Undergraduate at <em>SLIIT</em>
 
 - 💬 Ask me about <em>C, Java, React, Backend Develop</em></li>
 
