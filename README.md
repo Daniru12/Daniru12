@@ -3,7 +3,7 @@
 
 
 <a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Hi%F0%9F%91%8B+I+am+Daniru+Punsith+Ranathunga" alt="Typing SVG" /></a>
-<h3 align="center">Passionate Software Engineer | Full Stack Devoloper | Exploring the Boundless World of Technology | Microsoft Learn Student Ambassador | MS Club Volunteer</h3>
+<h3 align="center">Passionate Software Engineer | Full Stack Devoloper | Microsoft Learn Student Ambassador | MS Club Volunteer</h3>
 
   
  
