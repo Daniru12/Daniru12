@@ -16,7 +16,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/daniru12.svg)](https://user-badge.committers.top/sri_lanka/daniru12)
 
-- 🌱 I’m currently learning **>.Net, DevOps**
+- 🌱 I’m currently learning **>.Net, AWS, React Native, Oracale**
 
 - 🧑‍🎓 I’m an SE Undergraduate at <em>SLIIT</em>
 
