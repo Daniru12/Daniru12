@@ -20,7 +20,7 @@
 
 - 🧑‍🎓 I’m an SE Undergraduate at <em>SLIIT</em>
 
-- 💬 Ask me about <em>C, Java, React, Backend Develop</em></li>
+- 💬 Ask me about <em>Go, C, Java, React, Backend Develop</em></li>
 
 - 📫 How to reach me: <a href="mailto:[punsithdaniru@gmail.com](https://portfolio-my-daniru.vercel.app/)">[punsithdaniru@gmail.com](portfolio-my-daniru.vercel.app)</a></li>
 
