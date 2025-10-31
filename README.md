@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,go,java,react,nodejs,php,py,dart,flutter,c,cs,dotnet,azure,git,github,tailwind,bootstrap,mysql,firebase,idea,eclipse,androidstudio,vscode,figma&theme=dark&perline=13"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,go,java,nestjs,react,nodejs,php,py,dart,flutter,c,cs,dotnet,azure,git,github,tailwind,bootstrap,mysql,firebase,idea,eclipse,androidstudio,vscode,figma&theme=dark&perline=13"/>
  </a>
 </p>
 <br>
